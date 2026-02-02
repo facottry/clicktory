@@ -49,7 +49,9 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) and send a PR!
 
 ## 🔗 Connect
 - **Website**: [clicktory.in](https://clicktory.in)
-- **Twitter**: [@clicktory](https://twitter.com/clicktory)
+- **GitHub**: [github.com/facottry/clicktory](https://github.com/facottry/clicktory)
+- **LinkedIn**: [linkedin.com/company/clicktory](https://www.linkedin.com/company/clicktory)
+
 
 ---
 *License: MIT*
