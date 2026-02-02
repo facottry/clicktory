@@ -1,0 +1,17 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+dist/
+build/
+
+# Secrets
+.env
+.env.local
+config.js
+
+# Logs
+*.log
+npm-debug.log*
