@@ -1,7 +1,7 @@
 # The Clicktory SEO Checklist 🚀
 
 A battle-tested 10-point checklist for launching a SaaS that actually gets indexed.
-Based on our experience building **[Clicktory](https://clicktory.in)**.
+Based on our experience building **[Clicktory](https://www.clicktory.in)**.
 
 ## 1. Technical Health
 - [ ] **Sitemap.xml**: Ensure it's auto-generated and submitted to GSC.
@@ -26,4 +26,4 @@ Based on our experience building **[Clicktory](https://clicktory.in)**.
 - [ ] **Freshness**: Show "Last Updated" dates.
 
 ---
-*Built with ❤️ by the team at [Clicktory](https://clicktory.in)*
+*Built with ❤️ by the team at [Clicktory](https://www.clicktory.in)*

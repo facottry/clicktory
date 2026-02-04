@@ -1,7 +1,7 @@
 # SaaS Launch Infrastructure Guide 🏗️
 
 Standardized infrastructure stack for high-performance indie SaaS.
-Simplified from the internal architecture of **[Clicktory](https://clicktory.in)**.
+Simplified from the internal architecture of **[Clicktory](https://www.clicktory.in)**.
 
 ## 1. The Stack
 | Layer | Choice | Why? |
@@ -34,4 +34,4 @@ The "Monorepo-lite" pattern:
 4.  **Promote**: Manual approval to Prod.
 
 ---
-*Read more about our engineering philosophy at [Clicktory](https://clicktory.in)*
+*Read more about our engineering philosophy at [Clicktory](https://www.clicktory.in)*

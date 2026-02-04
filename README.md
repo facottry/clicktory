@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Stars](https://img.shields.io/github/stars/clicktory/playbook?style=social)
 
-The official, open-source playbook used to build and grow **[Clicktory](https://clicktory.in)**, the discovery platform for indie hackers.
+The official, open-source playbook used to build and grow **[Clicktory](https://www.clicktory.in)**, the discovery platform for indie hackers.
 
 ### Why this repo?
 There is too much fluff in the SaaS world.  
@@ -48,7 +48,7 @@ Found a better way to do SEO? Have a security tip?
 Read [CONTRIBUTING.md](CONTRIBUTING.md) and send a PR!
 
 ## 🔗 Connect
-- **Website**: [clicktory.in](https://clicktory.in)
+- **Website**: [clicktory.in](https://www.clicktory.in)
 - **GitHub**: [github.com/facottry/clicktory](https://github.com/facottry/clicktory)
 - **LinkedIn**: [linkedin.com/company/clicktory](https://www.linkedin.com/company/clicktory)
 
